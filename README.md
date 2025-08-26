@@ -1,4 +1,4 @@
-# Restaurant Order Backendd
+# Restaurant Order Backend
 
 Restaurant Order Management System Backend
 ระบบจัดการร้านอาหาร รองรับการสั่งอาหาร การจัดการโต๊ะ เมนู หมวดหมู่ PIN และออเดอร์ พร้อม Authentication, Real-time Updates และ Dashboard Analytics
